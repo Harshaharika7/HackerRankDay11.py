@@ -10,11 +10,11 @@ Given a 6x6 2D array of integers, the task is to find the maximum sum of any hou
 
 An hourglass in a 2D array is defined as a subset of values with the following pattern:
 
-   a b c
+a b c
 
-     d
-  
-   e f g
+  d
+
+e f g
 
 ## Steps:
 
