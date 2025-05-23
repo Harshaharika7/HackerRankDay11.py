@@ -1,14 +1,14 @@
 # 🔢 Day 11: 2D Arrays | HackerRank 30 Days of Code
 
-This repository contains the Python solution for Day 11 of the HackerRank 30 Days of Code challenge, which focuses on 2D arrays and pattern-based computation using the hourglass sum concept.
+     This repository contains the Python solution for Day 11 of the HackerRank 30 Days of Code challenge, which focuses on 2D arrays and pattern-based computation using the hourglass sum concept.
 
 ## 🚀 Challenge Summary
 
-Given a 6x6 2D array of integers, the task is to find the maximum sum of any hourglass formed in the matrix.
+    Given a 6x6 2D array of integers, the task is to find the maximum sum of any hourglass formed in the matrix.
 
 ## 📝 Problem Statement
 
-An hourglass in a 2D array is defined as a subset of values with the following pattern:
+    An hourglass in a 2D array is defined as a subset of values with the following pattern:
 
 a b c
 
